@@ -2,6 +2,8 @@ Example #2 of [elmfire-extra](https://github.com/ThomasWeiser/elmfire-extra).
 
 This example demonstrates decoding more complex data from Firebase instead of a simple string.
 
+![firebase-data](https://s3.amazonaws.com/f.cl.ly/items/3t0s1Y2z0h393E2m3d2D/Screen%20Shot%202016-03-28%20at%209.54.22%20PM.png?v=94438ccf)
+
 ## Install
 
 ```
